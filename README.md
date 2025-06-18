@@ -15,7 +15,7 @@ This is a simple chatbot app built using the Hugging Face `Mixtral` model and de
 
 ## 🚀 Demo
 
-👉 [Click here to try the chatbot](![alt text](image.png))
+👉 [Click here to try the chatbot](![alt text](image-1.png))
 
 *(Replace with your actual Streamlit Cloud URL)*
 
