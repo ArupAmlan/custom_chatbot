@@ -15,11 +15,11 @@ This is a simple chatbot app built using the Hugging Face `Mixtral` model and de
 
 ## 🚀 Demo
 
-👉 [Click here to try the chatbot](![alt text](image-1.png))
+👉 [Click here to try the chatbot](https://arupchat.streamlit.app/)
 
-*(Replace with your actual Streamlit Cloud URL)*
+## Screenshot
 
----
+[Screenshot](![alt text](image.png))
 
 
 
