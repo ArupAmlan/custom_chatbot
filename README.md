@@ -19,7 +19,7 @@ This is a simple chatbot app built using the Hugging Face `Mixtral` model and de
 
 ## Screenshot
 
-[Screenshot](![alt text](image.png))
+[Screenshot](![alt text](image-1.png))
 
 
 
